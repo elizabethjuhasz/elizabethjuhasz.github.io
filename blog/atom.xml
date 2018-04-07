@@ -11,7 +11,7 @@ layout: feed
  <id>http://elizabethjuhasz.github.io/blog</id>
  <author>
    <name>Elizabeth Juhasz</name>
-   <email>hankquinlanhub@gmail.com</email>
+   <email>ejuhaszb@fiu.edu</email>
  </author>
 
  {% for post in site.posts %}
