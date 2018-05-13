@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Positive Effects of Balneotherapy. An Experiment in Hévíz, Hungary"
-date: 2017-11-5
+date: 2018-05-13
 ---
 
 Study finds that "balneotherapy improved pain, function, as well as the quality of life in patients with knee osteoarthritis."
