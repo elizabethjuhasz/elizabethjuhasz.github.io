@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BoxPlots"
-date: 2018-12-28
+date: 2018-12-23
 ---
 Begin reading articles using quantitative methodology, and eventually you’ll run into boxplots. 
 
