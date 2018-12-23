@@ -16,7 +16,7 @@ Box plots are originally attributed to John W. Tukey, who was always way ahead o
 Flowingdata also has a good [breakdown](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/
 ) of boxplots.  
 
-Teaching methods or mathematics? Some researchers have examined the pros and cons of teaching boxplots to students.  Though boxplots are not difficult to put together, many individuals struggle with interpreting them, even those with backgrounds in statistics or methodology. 
+Teaching methods or mathematics? Some researchers have examined the pros and cons of teaching boxplots to students.  Though boxplots are not difficult to put together, many individuals struggle with interpreting them, even those with statistics or methodology backgrounds. 
 
 The following articles analyzing teaching boxplots to younger students, but I believe the articles are useful for anyone teaching methods.  For example, [Edwards, Özgün-Koca, and Barr (2017)](https://tandfonline.com/doi/pdf/10.1080/10691898.2017.1288556?needAccess=true) note in their literature review that students, even college students, struggle to visualize what aggregated data in the boxplot will look “like if they were disaggregated,” (22). Meaning “the difficulty lies in looking at a representation of the grouped data, but not an individual data point (Edwards, Özgün-Koca, and Barr 2017, 22).  The results of the authors later confirm that students struggled with interpreting aggregated data (24).  One recommendation these authors make to help students interpret boxplot information regards hands-on experiences (26), which I personally believe is more effective than traditional lecturing.  
 
