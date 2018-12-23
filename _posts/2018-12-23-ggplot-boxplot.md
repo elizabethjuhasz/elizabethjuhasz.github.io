@@ -7,7 +7,7 @@ Begin reading articles using quantitative methodology, and eventually you’ll r
 
 ![boxplot](boxplot.jpg)
 
-![boxplot](_posts/boxplot.jpg)
+![boxplot](https://elizabethjuhasz.github.io/blog/boxplot.jpg)
 
 <img src="boxplot.jpg"/>
 
