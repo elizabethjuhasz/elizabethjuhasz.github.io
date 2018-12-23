@@ -7,10 +7,10 @@ Begin reading articles using quantitative methodology, and eventually you’ll r
 
 ![boxplot](https://elizabethjuhasz.github.io/blog/boxplot.jpg){:height="400px" width="600px"}
 
-<p><sub><sub>Source: de Mesquita, Bruce Bueno, George W. Downs, and Alastair Smith.  2005.  "Thinking Inside the Box: A Closer Look at  
-Democracy and Human Rights."  <I>International Studies Quarterly</I>49(3): 439-457. See Figure 1, (452).</sub></sub></p>
+<sub><sub>Source: de Mesquita, Bruce Bueno, George W. Downs, and Alastair Smith.  2005.  "Thinking Inside the Box: A Closer Look at  
+Democracy and Human Rights."  <I>International Studies Quarterly</I>49(3): 439-457. See Figure 1, (452).</sub></sub>
 
-Laura DeCicco has an excellent [post](https://owi.usgs.gov/blog/boxplots/) on ggplot2 boxplots. More so, the article flawlessly describes how to read boxplots, complete with excellent visualizations.  
+Laura DeCicco has an excellent [post](https://owi.usgs.gov/blog/boxplots/) on ggplot2 boxplots. Moreso, the article flawlessly describes how to read boxplots, complete with excellent visualizations.  
 
 Box plots are originally attributed to John W. Tukey, who was always way ahead of the game.  Flowingdata has a small blog [post](https://flowingdata.com/2008/01/01/john-tukey-and-the-beginning-of-interactive-graphics/) about Tukey and interactive graphics. The video linked in the post is especially telling, and [worth checking out](https://www.youtube.com/watch?v=B7XoW2qiFUA).  
 
