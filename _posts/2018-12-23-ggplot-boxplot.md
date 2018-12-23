@@ -7,7 +7,7 @@ Begin reading articles using quantitative methodology, and eventually you’ll r
 
 ![boxplot](boxplot.jpg)
 
-![boxplot](https://elizabethjuhasz.github.io/blog/boxplot.jpg){:height="700px" width="400px"}
+![boxplot](https://elizabethjuhasz.github.io/blog/boxplot.jpg){:height="400px" width="700px"}
 
 <img src="boxplot.jpg"/>
 
