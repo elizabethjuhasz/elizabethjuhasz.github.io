@@ -6,6 +6,7 @@ date: 2018-12-23
 Begin reading articles using quantitative methodology, and eventually you’ll run into boxplots. 
 
 ![boxplots](boxplot.jpg)
+
 <small>Source: de Mesquita, Bruce Bueno, George W. Downs, and Alastair Smith.  2005.  "Thinking Inside the Box: A Closer Look at
   Democracy and Human Rights."  <I>International Studies Quarterly</I>49(3): 439-457. See Figure 1, (452).</small>
 
