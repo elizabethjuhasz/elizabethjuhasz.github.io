@@ -7,6 +7,8 @@ Begin reading articles using quantitative methodology, and eventually you’ll r
 
 ![boxplot](boxplot.jpg)
 
+![boxplot](_posts/boxplot.jpg)
+
 <img src="boxplot.jpg"/>
 
 <sub>Source: de Mesquita, Bruce Bueno, George W. Downs, and Alastair Smith.  2005.  "Thinking Inside the Box: A Closer Look at
